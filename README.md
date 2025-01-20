@@ -1,2 +1,2 @@
-# neural-video-compression-transfer
-ee604 projeccccct
+# Efficient Video Transmission Using Neural Network-Based Compression
+
